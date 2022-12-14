@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "PIC16F88-I_P")(type "Legacy")(uri "${KIPRJMOD}/lib/PIC16F88-I_P/lib_PIC16F88-I_P/PIC16F88-I_P.lib")(options "")(descr ""))
+  (lib (name "TA7291P_O_")(type "Legacy")(uri "${KIPRJMOD}/lib/TA7291P_O_/lib_TA7291P_O_/TA7291P_O_.lib")(options "")(descr ""))
+  (lib (name "TA78L05S_TPE2_F_")(type "Legacy")(uri "${KIPRJMOD}/lib/TA78L05S_TPE2_F_/lib_TA78L05S_TPE2_F_/TA78L05S_TPE2_F_.lib")(options "")(descr ""))
+)

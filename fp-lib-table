@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "lib_PIC16F88-I_P")(type "KiCad")(uri "${KIPRJMOD}/lib/PIC16F88-I_P/lib_PIC16F88-I_P")(options "")(descr ""))
+  (lib (name "lib_TA7291P_O_")(type "KiCad")(uri "${KIPRJMOD}/lib/TA7291P_O_/lib_TA7291P_O_")(options "")(descr ""))
+)

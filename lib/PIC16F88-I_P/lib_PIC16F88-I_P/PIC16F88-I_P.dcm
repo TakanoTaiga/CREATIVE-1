@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC16F88-I_P
+D PIC16F88-I/P, 8 bit PIC Microcontroller 20MHz 256 B, 7168 B Flash, 368 B RAM, I2C 18-Pin PDIP
+K
+F http://uk.rs-online.com/web/p/products/6230487P
+$ENDCMP
+#
+#End Doc Library
