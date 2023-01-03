@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TA78L05S_TPE2,F_
+#/848721/326545/2.49/3/4/Integrated Circuit
+DEF TA78L05S_TPE2,F_ IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "TA78L05S_TPE2,F_" 850 200 50 H V L CNN
+F2 "TA78L05STPE2F" 850 100 50 H I L CNN
+F3 "http://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/TA78LxxS.pdf" 850 0 50 H I L CNN
+F4 "Linear Voltage Regulators VoltReg IC Input 35V Output 5V 0.1A" 850 -100 50 H I L CNN "Description"
+F5 "6.5" 850 -200 50 H I L CNN "Height"
+F6 "" 850 -300 50 H I L CNN "RS Part Number"
+F7 "" 850 -400 50 H I L CNN "RS Price/Stock"
+F8 "Toshiba" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TA78L05S(TPE2,F)" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X OUT 1 0 0 200 R 50 50 0 0 P
+X GND 2 1000 0 200 L 50 50 0 0 P
+X IN 3 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

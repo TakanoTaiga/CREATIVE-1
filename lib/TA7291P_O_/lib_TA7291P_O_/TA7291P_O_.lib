@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TA7291P_O_
+#/13294518/326545/2.49/10/4/Connector
+DEF TA7291P_O_ J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "TA7291P_O_" 750 200 50 H V L CNN
+F2 "TO254P420X2700X1580-10P" 750 100 50 H I L CNN
+F3 "http://uk.rs-online.com/web/p/products/6939298" 750 0 50 H I L CNN
+F4 "Toshiba TA7291P(O) Motor Driver IC" 750 -100 50 H I L CNN "Description"
+F5 "4.2" 750 -200 50 H I L CNN "Height"
+F6 "6939298" 750 -300 50 H I L CNN "RS Part Number"
+F7 "http://uk.rs-online.com/web/p/products/6939298" 750 -400 50 H I L CNN "RS Price/Stock"
+F8 "Toshiba" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TA7291P(O)" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X GND 1 0 0 200 R 50 50 0 0 P
+X OUT1 2 0 -100 200 R 50 50 0 0 P
+X NC_1 3 0 -200 200 R 50 50 0 0 P
+X VREF 4 0 -300 200 R 50 50 0 0 P
+X IN1 5 0 -400 200 R 50 50 0 0 P
+X IN2 6 0 -500 200 R 50 50 0 0 P
+X VCC 7 0 -600 200 R 50 50 0 0 P
+X VS 8 0 -700 200 R 50 50 0 0 P
+X NC_2 9 0 -800 200 R 50 50 0 0 P
+X OUT2 10 0 -900 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -1000 200 -1000 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

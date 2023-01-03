@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TA78L05S_TPE2,F_
+D Linear Voltage Regulators VoltReg IC Input 35V Output 5V 0.1A
+K
+F http://media.digikey.com/pdf/Data%20Sheets/Toshiba%20PDFs/TA78LxxS.pdf
+$ENDCMP
+#
+#End Doc Library
